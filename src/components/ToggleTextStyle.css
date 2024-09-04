@@ -1,0 +1,29 @@
+.toggel_container {
+  border: 5px solid turquoise;
+  width: 800px;
+  height: 300px;
+}
+
+.toggel_container > button {
+  padding: 10px 20px;
+  background-color: aquamarine;
+  border-radius: 15px;
+  border: 1px solid darkturquoise;
+  margin: 20px 50px 20px 250px;
+  font-size: 20px;
+}
+
+.toggel_container > input {
+  border: 3px solid darkturquoise;
+  border-radius: 4px;
+  font-size: 18px;
+}
+
+.toggel_container > p {
+  margin: 20px 50px;
+  font-size: 28px;
+  text-shadow: 2px 0.9px yellowgreen;
+  font-weight: 700;
+  color: rgb(108, 108, 240);
+  text-align: center;
+}
